@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=javascript&logoColor=White)
+  ![PowerApps](https://img.shields.io/badge/PowerApps-FFC0CB?style=for-the-badge&logo=PowerApps&logoColor=White)
+  ![PowerAutomate](https://img.shields.io/badge/Power%20Automate-2832C2?style=for-the-badge&logo=PowerAutomate&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
