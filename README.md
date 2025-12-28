@@ -12,11 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align='left'>👨🏻‍💻   About me</h2>
 
-- 💻 Working as a Systems Engineer at TCS
+- 💻 Working as a Senior Engineer - Fast App Developmet at Nagarro
+- 💻 Working as a Systems Engineer - PowerApps at TCS
 - 🚀 Presently Working on <a href="https://powerplatform.microsoft.com/en-us">Microsoft Power Platforms</a>
 - 🎓 Graduated from <a href="https://udrtukota.ac.in/UTD">Rajasthan Technical University Electronics Engineering Department</a>
-- 🌱 I’m currently learning MERN Stack
-- 👀 I’m interested in WebApps & Robots
+- 🌱 I’m currently learning Co-pilot Studio & PCF
+- 👀 I’m interested in WebApps & Automations
 
 <h2 align='left'>🛠  Tech Stack</h2>
 
